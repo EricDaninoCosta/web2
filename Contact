@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contact</title>
+    </head>
+
+
+    <body>
+
+        <H2>Contact Me</H2>
+        </p>
+            subseabrasildiving@gmail.com
+            </p>
+            <p>+55-13991426788</p>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+      
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+      
+            <input type="submit" value="Send">
+          </form>
+        </section>
+      </main>
+      <footer>
+        <p>Copyright &copy; 2023 Commercial Diving Company</p>
+      </footer>
+      
+    </body>
+</html>
